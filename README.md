@@ -21,4 +21,4 @@ stay on the refreshed page until deleted.
 
 [Live URL]https://github.com/meg-an321/Task-Board
 
-[GitHub]
+[GitHub]https://meg-an321.github.io/Task-Board/
